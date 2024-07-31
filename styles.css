@@ -15,7 +15,7 @@ body {
     margin-top: 0px; /* Ajustando conforme necessário para o espaço entre a navegação e o título */
 }
 .main-title h2 {
-    font-size: 4em; /* Ajustando o tamanho da fonte conforme necessário */
+    font-size: 2em; /* Ajustando o tamanho da fonte conforme necessário */
     color: #260227; /* Cor do texto do título */
     background-color: rgba(104, 64, 28, 0.5); /* Cor de fundo do título com transparência */
     padding: 0px; /* Espaço ao redor do texto */
@@ -65,7 +65,7 @@ nav ul li a {
 }
 
 nav ul li a {
-    font-size: 24px; /* Tamanho da fonte em pixels */
+    font-size: 19px; /* Tamanho da fonte em pixels */
 }
 
 nav ul li a:hover {
